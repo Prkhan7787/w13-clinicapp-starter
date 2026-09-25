@@ -61,5 +61,5 @@ jobs:
         with:
           app-name: 'app-clinicapp-api-prkhan'
           slot-name: 'Production'
-          package: .
+          package: ./server
           
